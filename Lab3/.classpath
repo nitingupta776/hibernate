@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/javaee-api-8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-nop-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-simple-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-jdk14-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/javassist.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/dom4j.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/log4j.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/Users/bhavukgupta/Desktop/BCIT/COMP 7071/Lab3/hibernate-annotations.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
